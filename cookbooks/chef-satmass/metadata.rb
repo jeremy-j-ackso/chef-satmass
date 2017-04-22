@@ -1,6 +1,6 @@
 name 'chef-satmass'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
+maintainer 'Jeremy Jackson'
+maintainer_email 'jeremy_j@ackso.net'
 license 'all_rights'
 description 'Installs/Configures chef-satmass'
 long_description 'Installs/Configures chef-satmass'
@@ -11,9 +11,11 @@ version '0.1.0'
 # uploaded to a Supermarket.
 #
 # issues_url 'https://github.com/<insert_org_here>/chef-satmass/issues' if respond_to?(:issues_url)
+issues_url 'https://github.com/jeremy-j-ackso/chef-satmass/issues' if respond_to?(:issues_url)
 
 # The `source_url` points to the development reposiory for this cookbook.  A
 # `View Source` link will be displayed on this cookbook's page when uploaded to
 # a Supermarket.
 #
 # source_url 'https://github.com/<insert_org_here>/chef-satmass' if respond_to?(:source_url)
+source_url 'https://github.com/jeremy-j-ackso/chef-satmass' if respond_to?(:source_url)
