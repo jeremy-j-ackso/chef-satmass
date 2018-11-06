@@ -7,3 +7,4 @@ Chef repo for deployment of the Sentiment as a Service project.
 
 [UI repo](https://github.com/elliothimmelfarb/SATMaaS)
 
+Moved to https://gitlab.com/jeremy.jackson/chef-satmass
